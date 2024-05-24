@@ -1,0 +1,424 @@
+html { 
+    font-size:62.5%
+}
+
+body {font-family: "Roboto", sans-serif;
+width: 100%;
+font-size: large;
+}
+
+a {text-decoration: none;}
+
+h3 {font-weight: bolder;
+font-size: 6rem;}
+
+p {font-size: medium;
+font-weight: 3rem;}
+
+
+
+#href {text-decoration: none;
+        color: red;
+        font-weight: bold;
+
+}
+
+#hrf {color: white;
+    background-color: red;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 3.5rem;
+}
+
+* {box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+ .div1 {
+        position: fixed;
+        left: 0;
+        top: 0;
+        padding: 0;
+        margin: 0;
+
+
+} 
+
+.dorimg {width: 300px;
+        height: 30px;
+        margin: auto;
+    position: absolute;
+    top: 70px;
+    left: 650px;}
+
+.div11 {
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+    background-color: white;
+    width: 100%;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.signup {color: red;
+    background-color: white;
+    border-radius: 15px;
+    float: right;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bolder;
+    font-size: 6rem;}
+
+.signin { color: white;
+        background-color:red;
+        border-radius: 15px;
+        float: right;
+        padding: 10px;
+        margin: 5px;
+        font-weight: bolder;
+        font-size: 7rem;
+
+}
+
+
+
+.header {background-image: url("img/background.png");
+        background-size: 100vw;
+        background-repeat: no-repeat;
+        height: 750px;
+        width: 100%;
+        position: relative;
+        height: 650px;
+        width: 100%;
+
+
+}
+
+.Discover {text-align: center;
+    margin: auto;
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    top: 250px;
+    font-size: larger;
+    
+            }
+
+.h31 {color: white;
+        font-size: 4rem;
+        margin-bottom: auto;
+}
+
+#address {  width: 400px;
+            height: 45px;
+            border-radius: 15px;
+            border: 2px solid white;
+            padding: 10px;
+            margin:5px;
+            margin: auto;
+            font-size: 1.5rem;
+}
+
+.saved {background-color: white;
+        color: black;
+        padding: 10px;
+        margin: auto;
+        border: 1px solid white;
+        border-radius: 15px;
+        font-weight: bold;
+        font-size: 2rem;
+}
+
+section.a {position: relative;
+            background-color: white;
+            height: 600px;
+            width: 600px;
+            align-content: center;
+}
+
+.dasher {position: absolute;
+    top: 30px;
+    left: 300px;
+    width: 200px;
+
+}
+
+.partner {position: absolute;
+    top: 30px;
+    left: 750px;
+    width: 200px;
+
+}
+
+
+.app {position: absolute;
+    top: 30px;
+    left: 1200px;
+    width: 200px;
+
+}
+
+#size {width: 150px;
+        height: 150px;
+}
+
+
+
+section.b {position: relative;
+    background-color: white;
+    height: 600px;
+    width: 500px;
+
+}
+
+.woman {position: absolute;
+top: -50px;
+left: 750px;
+
+
+}
+
+#wom {width: 827px;
+    height: 623px;}
+
+.crave {position: absolute;
+    left: 180px;
+    top: 100px;
+    font-size: 6rem;
+    width: 350px;
+}
+
+div.c {position: relative;
+    background-color: #ffeeea;
+    height: 650px;
+    width: 500px;
+
+}
+
+#das {width:822px;
+     height:623px;}
+
+.dash {position: absolute;
+        left: 100px;
+        top: 50px;
+
+}
+
+.pass {
+    position: absolute;
+    left: 1000px;
+    width: 350px;
+    top: 200px;
+    
+    
+}
+
+.font {font-size: 7rem;}
+
+
+
+section.d {background-image: url(img/IMG-20240222-WA0056.jpg);
+    background-size: cover;
+    background-color: ;
+    position: relative;
+    height: 550px;
+    width: 100%;
+  
+  
+}
+
+.bg {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    width: 100%;
+    height: 550px;
+    z-index: 6;
+    
+    
+}
+
+.grocery {position: absolute;
+        top: 150px;
+        left: 700px;
+        margin: auto;
+        color: white;
+        z-index: 7;
+}
+
+
+section.e {
+        position: relative;
+        background-color: white;
+        height: 800px;
+        width: 500px;
+}
+
+.store
+ { position: absolute;
+        left: 200px;
+        top: 300px;
+        width: 400px;
+}
+
+.conimg {position: absolute;
+            left: 800px;
+            top: 100px;
+
+}
+
+.div12 {background-color: #ffeeea;}
+.div30 {position: relative;
+        
+        height: 1750px;
+        width: 500px;
+
+}
+
+.h12 {position: absolute;
+        left: 600px;
+        top: 30px;
+        width: 600px;
+}
+
+.two1 { position: absolute;
+    height: 500px;
+    width: 500px;
+    
+}
+
+#pac {width: 600px;
+        height: 550px;}
+
+.two2 {position: absolute;
+        left: 200px;
+        top: 50px;}
+
+.two3 {position: absolute;
+        left: 850px;
+        top: 50px;
+}
+
+.two11 { position: absolute;
+    height: 500px;
+    width: 500px;
+   }
+
+.two22 {position: absolute;
+        left: 200px;
+        top: 850px;}
+
+
+.two33 {position: absolute;
+            left: 850px;
+            top: 850px;
+    }
+
+.one1 {position: relative;
+    background-color: white;
+    height: 800px;
+    width: 500px;
+}
+
+
+.one2 {position: absolute;
+    top: 100px;
+    right: 100px;
+    left: 800px;}
+
+
+.unlock {position: absolute;
+    left: 500px;
+    top: 10px;
+    width: 800px;}
+
+
+.t1  { position: absolute;
+    left: 150px;
+    top: 250px;
+    width: 450px;}
+
+ 
+    
+
+div.cd {position: relative;
+        background-color: #ffeeea;
+        height: 750px;
+        width: 500px;}
+    
+
+.pass2 {
+    position: absolute;
+    left: 1100px;
+    width: 350px;
+    top: 200px;}
+
+
+.dash2 {position: absolute;
+        left: 50px;
+        top: 60px;
+
+}
+
+.get {text-align: center;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    text-indent:350px ;
+  }
+
+.ui {text-indent: 200px;}
+
+
+footer {background-color: black;}
+table {width: 100%;
+    color: white;
+}
+
+table, th, td {border: 1px solid black;}
+
+caption {text-align: left;}
+
+th {text-align: left;}
+
+th, td {padding: 15px;}
+
+.fut {color: white;
+text-align: center;
+padding: 10px;}
+
+#las {width: 50px;
+        height: 15px;
+}
+  
+
+
+
+
+
+
+
